@@ -1,0 +1,8 @@
+pymupdf4llm
+llama-cpp-python
+sentence-transformers
+faiss-cpu
+langchain
+langchain-community
+numpy
+pandas
