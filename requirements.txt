@@ -1,8 +1,7 @@
-pymupdf4llm
-llama-cpp-python
+streamlit
+faiss-cpu==1.8.0
 sentence-transformers
-faiss-cpu
-langchain
-langchain-community
+llama-cpp-python
 numpy
 pandas
+pymupdf4llm
