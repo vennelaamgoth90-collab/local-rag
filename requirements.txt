@@ -1,7 +1,5 @@
 streamlit
-faiss-cpu==1.8.0
 sentence-transformers
-llama-cpp-python
 numpy
 pandas
 pymupdf4llm
