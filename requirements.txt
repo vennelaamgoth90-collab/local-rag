@@ -1,5 +1,2 @@
 streamlit
-sentence-transformers
-numpy
-pandas
-pymupdf4llm
+pymupdf
